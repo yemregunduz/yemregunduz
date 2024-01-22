@@ -1,7 +1,7 @@
 
 ### Hi, Welcome to my github profile. 👋 
 
-<h6 align="center">I am Yunus Emre. I am a mathematical engineering student at YTU. I have been improving myself as a full-stack developer for 2 years. On my profile, I share the projects I have done, large and small.</h6>
+<h6 align="center">I have been improving myself as a full-stack developer for 3 years. On my profile, I share the projects I have done, large and small.</h6>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
