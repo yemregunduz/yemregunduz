@@ -1,7 +1,7 @@
 
 ### Merhaba, Github profilime hoşgeldiniz. 👋 
 
-<h6 align="center">3 yıldır Full-Stack Developer olarak kendimi geliştirmekteyim. GitHub profilimde yaptığım çeşitli projeleri paylaşıyorum.</h6>
+<h6 align="center">Profilime hoş geldiniz! Burada paylaştığım irili ufaklı tüm projelerle ilgili geri bildirimlere her zaman açığım. Eğer bir konuda işbirliği yapmak veya sadece selam vermek istiyorsanız, lütfen benimle iletişime geçmekten çekinmeyin. Teşekkürler! 😊🚀.</h6>
 <h3 align="center">Benimle İletişime Geçin:</h3>
 <p align="center">
   <a href="mailto:yegunduz@outlook.com">
@@ -17,5 +17,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yemregunduz&show_icons=true&theme=radical">
 </p>
-Profilime hoş geldiniz! Burada yaptığım projelerle ilgili geri bildirimlere her zaman açığım. Eğer bir konuda işbirliği yapmak veya sadece selam vermek istiyorsanız, lütfen benimle iletişime geçmekten çekinmeyin. Teşekkürler! 😊🚀
+
 
