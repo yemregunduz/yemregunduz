@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemregunduz&layout=compact&theme=tokyonight" height="180">
 </p>
-<p align="center">
+[<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yemregunduz&show_icons=true&theme=radical">
-</p>
+</p>](url)
 
