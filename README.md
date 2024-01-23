@@ -1,8 +1,8 @@
 
-### Hi, Welcome to my github profile. 👋 
+### Merhaba, Github profilime hoşgeldiniz. 👋 
 
-<h6 align="center">I have been improving myself as a full-stack developer for 3 years. On my profile, I share the projects I have done, large and small.</h6>
-<h3 align="center">Connect with me:</h3>
+<h6 align="center">3 yıldır kendimi Full-Stack Developer olarak geliştirmekteyim. Burada yaptığım irili ufaklı her projeyi paylaşıyorum.</h6>
+<h3 align="center">Benimle iletişime geçin:</h3>
 
 <p align="center">
 <a href="mailto:yegunduz@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-yegunduz@outlook.com-blue?style=flat&logo=gmail"></a>
